@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kanban2/static/css/main.b79788a7.chunk.css",
+    "main.js": "/kanban2/static/js/main.abd3329f.chunk.js",
+    "main.js.map": "/kanban2/static/js/main.abd3329f.chunk.js.map",
+    "runtime-main.js": "/kanban2/static/js/runtime-main.6afe77cc.js",
+    "runtime-main.js.map": "/kanban2/static/js/runtime-main.6afe77cc.js.map",
+    "static/css/2.047ad264.chunk.css": "/kanban2/static/css/2.047ad264.chunk.css",
+    "static/js/2.bc5e0419.chunk.js": "/kanban2/static/js/2.bc5e0419.chunk.js",
+    "static/js/2.bc5e0419.chunk.js.map": "/kanban2/static/js/2.bc5e0419.chunk.js.map",
+    "index.html": "/kanban2/index.html",
+    "precache-manifest.6b55dd38ac0c74f09ab7852155db3534.js": "/kanban2/precache-manifest.6b55dd38ac0c74f09ab7852155db3534.js",
+    "service-worker.js": "/kanban2/service-worker.js",
+    "static/css/2.047ad264.chunk.css.map": "/kanban2/static/css/2.047ad264.chunk.css.map",
+    "static/css/main.b79788a7.chunk.css.map": "/kanban2/static/css/main.b79788a7.chunk.css.map",
+    "static/js/2.bc5e0419.chunk.js.LICENSE.txt": "/kanban2/static/js/2.bc5e0419.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/kanban2/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6afe77cc.js",
+    "static/css/2.047ad264.chunk.css",
+    "static/js/2.bc5e0419.chunk.js",
+    "static/css/main.b79788a7.chunk.css",
+    "static/js/main.abd3329f.chunk.js"
+  ]
+}
