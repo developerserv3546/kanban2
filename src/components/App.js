@@ -1,20 +1,20 @@
-import React from 'react';
+import React, {useState} from 'react';
+import Board from "./Board";
+import AddTaskForm from "./AddTaskForm";
 
-function App() {
+const App = () => {
 
-    /*
-    const task = {
-      id,
-      name,
-      status,
-      priority (number),
-      description
-    }
-    */
+    const [isCreateTaskMode, setCreateTaskMode] = useState(false);
 
+    const onClickCreateTask = () => {
+        setCreateTaskMode(true);
+    };
 
     return (
-        <div>
+        <div className="text-center mt-5">
+            <AddTaskForm isCreateTaskMode={isCreateTaskMode} setCreateTaskMode={setCreateTaskMode}/>
+            <Board/>
+            <button className="btn btn-light m-3" onClick={onClickCreateTask}>Create Task</button>
         </div>
     );
 }
